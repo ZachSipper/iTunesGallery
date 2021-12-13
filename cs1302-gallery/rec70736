@@ -1,0 +1,103 @@
+cs1302-gallery:
+total 1128
+-rwx------ 1 ugrad 1103589 Apr 13 14:39 about.jpg
+-rw-r--r-- 1 ugrad     209 Mar 25 17:30 Makefile
+-rw-r--r-- 1 ugrad    2237 Mar 27 21:46 pom.xml
+-rw-r--r-- 1 ugrad   23280 Mar 25 17:30 README.md
+-rw-r--r-- 1 ugrad       0 Apr 13 23:47 rec70736
+drwxr-xr-x 4 ugrad    4096 Mar 25 17:38 src
+-rw-r--r-- 1 ugrad     415 Apr 13 23:46 Stylesheet.css
+-rw-r--r-- 1 ugrad     482 Apr 13 23:45 Stylesheet.css~
+drwxr-xr-x 5 ugrad    4096 Mar 27 21:28 target
+-rw-r--r-- 1 ugrad       0 Mar 29 09:40 #test.java#
+
+cs1302-gallery/src:
+total 8
+drwxr-xr-x 3 ugrad 4096 Mar 26 10:06 bin
+drwxr-xr-x 3 ugrad 4096 Mar 25 17:30 main
+
+cs1302-gallery/src/bin:
+total 12
+drwxr-xr-x 3 ugrad 4096 Mar 25 17:40 cs1302
+-rw-r--r-- 1 ugrad  858 Mar 26 10:06 HelloWorld$1.class
+-rw-r--r-- 1 ugrad 1122 Mar 26 10:06 HelloWorld.class
+
+cs1302-gallery/src/bin/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Mar 27 10:22 gallery
+
+cs1302-gallery/src/bin/cs1302/gallery:
+total 40
+-rw-r--r-- 1 ugrad  925 Mar 27 12:34 GalleryApp$1.class
+-rw-r--r-- 1 ugrad  924 Mar 27 12:34 GalleryApp$2.class
+-rw-r--r-- 1 ugrad  925 Mar 27 12:34 GalleryApp$3.class
+-rw-r--r-- 1 ugrad  925 Mar 27 12:34 GalleryApp$4.class
+-rw-r--r-- 1 ugrad  933 Mar 27 12:34 GalleryApp$5.class
+-rw-r--r-- 1 ugrad  933 Mar 27 10:30 GalleryApp$6.class
+-rw-r--r-- 1 ugrad 4639 Mar 27 13:39 GalleryApp.class
+-rw-r--r-- 1 ugrad  918 Mar 26 10:07 HelloWorld$1.class
+-rw-r--r-- 1 ugrad 1167 Mar 26 10:07 HelloWorld.class
+
+cs1302-gallery/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 25 17:30 java
+
+cs1302-gallery/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 25 17:30 cs1302
+
+cs1302-gallery/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr 13 15:05 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 20
+-rw-r--r-- 1 ugrad     0 Mar 26 10:05 ApplicationWindow.java~
+-rw-r--r-- 1 ugrad 11898 Apr 13 15:05 GalleryApp.java
+-rw-r--r-- 1 ugrad   982 Mar 26 10:07 HelloWorld.java
+-rw-r--r-- 1 ugrad   957 Mar 26 10:05 HelloWorld.java~
+
+cs1302-gallery/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 Mar 27 21:28 classes
+drwxr-xr-x 3 ugrad 4096 Mar 27 21:28 generated-sources
+drwxr-xr-x 3 ugrad 4096 Mar 27 21:28 maven-status
+
+cs1302-gallery/target/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 27 21:28 cs1302
+
+cs1302-gallery/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr 13 15:05 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+total 24
+-rw-r--r-- 1 ugrad 13463 Apr 13 15:05 GalleryApp.class
+-rw-r--r-- 1 ugrad  1089 Apr 13 15:05 HelloWorld$1.class
+-rw-r--r-- 1 ugrad  1496 Apr 13 15:05 HelloWorld.class
+
+cs1302-gallery/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Mar 27 21:28 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+total 0
+
+cs1302-gallery/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 27 21:28 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 27 21:28 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Mar 27 21:28 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad  98 Apr 13 15:05 createdFiles.lst
+-rw-r--r-- 1 ugrad 178 Apr 13 23:46 inputFiles.lst
+/home/ugrads/sipper/projects/cs1302-gallery:/home/work/cs1302a
